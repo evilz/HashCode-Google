@@ -32,4 +32,4 @@ _Hash Code 2014, Final Round_
 
 The Street View imagery available in Google Maps is captured using specialized vehicles called Street View cars. These cars carry multiple cameras capturing pictures as the car moves around a city. Capturing the imagery of a city poses an optimization problem: the fleet of cars is available for a limited amount of time and we want to cover as much of the city streets as possible.
 
-[:notebook:]() / [:page_facing_up:](:page_facing_u) / [:raised_hands:]()
+[:notebook:](2014/hashcode2014_final_task.pdf) / [:page_facing_up:](:page_facing_u) / [:raised_hands:]()

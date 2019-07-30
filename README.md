@@ -23,6 +23,20 @@ TBD
 
 ## 2015
 
+### Final Round
+
+**Loon**
+
+Project Loon aims to bring universal Internet access using a fleet of high altitude balloons equipped with LTE transmitters. Circulating around the world, Loon balloons deliver Internet access in areas that lack conventional means of Internet connectivity. Given the wind data at different altitudes, plan altitude adjustments for a fleet of balloons to provide Internet coverage to select locations.
+
+### Qualification Round
+
+**Optimize a data center**
+
+For over ten years, Google has been building data centers of its own design, deploying thousands of machines in locations around the globe. In each of these of locations, batteries of servers are at work around the clock, running services we use every day, from Google Search and YouTube to the Judge System of Hash Code. Given a schema of a data center and a list of available servers, your task is to optimize the layout of the data center to maximize its availability.
+
+ 
+
 ## 2014
 
 ### Street View routing

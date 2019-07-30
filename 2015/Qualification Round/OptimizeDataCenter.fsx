@@ -135,11 +135,11 @@ module Resolver =
     // get row
     //let row = array2d.[0,*];;
 
-    let putInRows datacenter =
+    //let putInRows datacenter =
 
-        let serversByScoreAndSize = datacenter.servers
-                                    |> List.sortByDescending Server.score
-                                    |> List.sortBy (fun s -> s.size)
+        // let serversByScoreAndSize = datacenter.servers
+        //                             |> List.sortByDescending Server.score
+        //                             |> List.sortBy (fun s -> s.size)
 
         // for s in serverByScoreAndSize do
         //     let rowsOrderedForPoolCapacity = datacenter.rows |> List.sortBy Row.totalCapacity
@@ -165,4 +165,4 @@ let filePath = System.IO.Path.Combine(__SOURCE_DIRECTORY__,"dc.in")
 
 let datacenter = Parse.readFile(filePath)
 
-datacenter
+printfn "%A" datacenter
